@@ -86,7 +86,7 @@
       <article class="container" style="background-image: url(background.jpg); background-size: cover">
         <!-- Header Image -->
         <div class="center">
-            <img src="./logo.svg" alt="Kingsrelam Circle" style="max-width: 200px; filter: invert(0.8);" />
+            <img src="https://realmcode.github.io/publicassets/logo.svg" alt="Kingsrelam Circle" style="max-width: 200px; filter: invert(0.8);" />
         </div>
 
         <!-- Tagline -->
